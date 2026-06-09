@@ -1,0 +1,8 @@
+body{
+    background:
+    linear-gradient(90deg, rgba(38, 24, 15, 0.88), rgba(122, 31, 18, 0.55)),
+    url(./images/premium_photo-1681406995086-e60e5c306e6c.avif);
+}
+.textStyles {
+    color: #ffc83d;
+}
