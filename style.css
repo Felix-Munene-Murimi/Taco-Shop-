@@ -68,8 +68,8 @@ a {
   background:
     linear-gradient(90deg, rgba(38, 24, 15, 0.88), rgba(122, 31, 18, 0.55)),
     url(./images/photo-1551504734-5ee1c4a1479b.jpg);
-  background-size: cover;
-  background-position: center;
+    background-blend-mode: overlay;
+    background-position: center;
   color: white;
 }
 
@@ -168,7 +168,6 @@ form {
   grid-template-columns: 1.2fr 0.8fr;
   gap: 32px;
 }
-
 form {
   display: grid;
   gap: 10px;

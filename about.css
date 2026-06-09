@@ -2,6 +2,7 @@ body {
     background:
     linear-gradient(90deg, rgba(38, 24, 15, 0.88), rgba(122, 31, 18, 0.55)),
     url(./images/photo-1618416096379-fa1f3262a72c.avif);
+    background-blend-mode: overlay;
 }
 .txtStyles {
     color: #fd7782f4;

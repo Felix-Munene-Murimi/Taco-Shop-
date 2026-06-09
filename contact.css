@@ -1,0 +1,12 @@
+body {
+    background:
+    linear-gradient(90deg, rgba(38, 24, 15, 0.88), rgba(122, 31, 18, 0.55)),
+    url(./images/taylor-friehl-6QCZfCOaNzg-unsplash.jpg);
+    background-blend-mode: overlay;
+    background-position: center;
+}
+.details {
+    color: #ffffff;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.8);
+    font-weight: bold;
+}
