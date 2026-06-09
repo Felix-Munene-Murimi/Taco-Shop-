@@ -1,0 +1,1 @@
+A modern, responsive restaurant website built using HTML5 and CSS3. This project showcases a fictional taco shop called Taco Tamu, designed to demonstrate front-end web development skills and UI design for a real-world business website.
